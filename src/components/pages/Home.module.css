@@ -16,6 +16,7 @@
     color: #ffbb33;
     padding: 0 0.2em;
     background-color: #222;
+    border-radius: 25px;
   }
   
   .home_container p {
@@ -25,5 +26,5 @@
   
   .home_container img {
     width: 350px;
-    margin: 2em 0;
+    margin: 2em 0;
   }
