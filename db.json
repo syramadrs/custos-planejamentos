@@ -41,6 +41,8 @@
       "id": 4
     },
     {
+      "name": "Projeto1",
+      "budget": "120523",
       "category": {
         "id": "1",
         "name": "Infra"
