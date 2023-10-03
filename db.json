@@ -7,13 +7,19 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 5000,
+      "cost": 5100,
       "services": [
         {
           "name": "Contratar um DevOps",
           "cost": "5000",
           "description": "DevOps para criar projeto na AWS",
           "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        },
+        {
+          "name": "Compra de curso",
+          "cost": "100",
+          "description": "Curso de react",
+          "id": "e5d01a92-1066-4646-a50a-774594e333d6"
         }
       ],
       "id": 2
